@@ -1,0 +1,9 @@
+header{
+    background-color: aliceblue;
+    padding: 0;
+    border-bottom: 1px solid #eee72929;
+}
+
+a:hover{
+    color: #f11818;
+}
